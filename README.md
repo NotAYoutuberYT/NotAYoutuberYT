@@ -1,11 +1,5 @@
 # Hello!
 
-I'm interested in all things low-level, so I love learning about anything regarding computers and how they go about doing what they do. I know the following languages:
+I primarily consider myself a math person, but I always end up coming back to programming because a want to build stuff. My language of choice is Rust, and I'm interested in computer rendering and a tiny bit of machine learning.
 
-* Rust
-* C
-* C++
-* Java
-* Python
-
-I enjoy working on projects with C and C++, but I mainly use Rust for any personal projects. I only use Java for first robotics competition, and I haven't used Python since I put it down to learn C as my second language. I'm currently working on improving my overall knowledge of design patters and good practices as well as deepening my understanding of how memory works at a *very* low level and using that knowledge to make my programs better.
+I'll eventually figure out what design patterns work for me, but for now all I make is spaghetti code. Maybe one day I'll finish a project.
